@@ -1,0 +1,5 @@
+{
+  "name": "Walnut Pattern AI (核纹智探)",
+  "description": "An intelligent tool for analyzing Wenwan walnuts and olive pits. It visualizes texture patterns using computer vision algorithms and provides expert-level analysis using Gemini AI.",
+  "requestFramePermissions": []
+}
